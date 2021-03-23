@@ -34,3 +34,5 @@ if search(list, n):  # This condition is for the 'search' function that will fin
     print('found at index number:', loc + 1)  # prints the location or index value of the given value by the user
 else:
     print("lost")  # If the list does not have the user's output value this will be executed
+
+print("hello world")
